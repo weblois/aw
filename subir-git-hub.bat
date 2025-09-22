@@ -1,6 +1,4 @@
 git add .
 git commit -m "html aw"
-git push origin master
-
-
-
+git branch -M main
+git push -u origin main
